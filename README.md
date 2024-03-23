@@ -37,7 +37,7 @@ Add the dependency
 
 ```groovy
 dependencies {
-    implementation 'com.github.nghinv-software:nconsole:1.0.0'
+    implementation 'com.github.nghinv-software:nconsole-android:1.0.0'
 }
 ```
 
@@ -48,7 +48,7 @@ dependencies {
     implementation("com.google.code.gson:gson:2.10.1")
     implementation("com.squareup.okhttp3:okhttp:4.11.0")
 
-    implementation("com.github.nghinv-software:nconsole:1.0.0")
+    implementation("com.github.nghinv-software:nconsole-android:1.0.0")
 }
 ```
 
